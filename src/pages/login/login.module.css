@@ -1,0 +1,51 @@
+.container {
+    background-color: white;
+}
+
+.logo {
+    margin-left: 60px;
+    width: 50%;
+    margin-bottom: 48px;
+    margin-top: 42px;
+}
+
+.header {
+    color: black;
+    margin-left: 95px;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.label {
+    color: black;
+    margin-left: 50px;
+    margin-bottom: -15;
+}
+
+.input {
+    color: white;
+    margin-left: 50px;
+    border-bottom: 1px solid #ffffff;
+}
+
+.inventlogo {
+    width: 50%;
+    margin-left: 26%;
+    margin-top: 70px;
+}
+
+.button {
+    background-color: #1976D2;
+    border-radius: 30px;
+    width: 70%;
+    height: 40px;
+    margin-top: 40px;
+    margin-left: 40px;
+    color: white;
+    border: none;
+}
+
+.error {
+    color: red;
+    margin-left: 50px;
+}
